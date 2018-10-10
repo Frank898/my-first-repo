@@ -1,6 +1,4 @@
 Welcome to bla bla...
 Continue Testing...
 I added this new line in the update-readme branch.
-<<<<<<< HEAD
- It is night outside and cool.
-=======
+It is night outside and cool.
